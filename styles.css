@@ -1,0 +1,9 @@
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+.header{
+    background-color: blanchedalmond;
+    display:flex;
+    justify-content:space-between;
+}
